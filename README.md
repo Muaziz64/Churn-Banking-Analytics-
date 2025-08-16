@@ -12,7 +12,7 @@ To identify key factors responsible for customer churn in a bank using data visu
 
 ## 📁 Dataset Details
 
-- **File:** `Bank_Churn.csv`
+- **File:** [Datasets](https://github.com/Muaziz64/Churn-Banking-Analytics-/blob/main/Bank_Churn.csv)
 - **Source:** Public dataset (simulated bank customer data)
 - **Attributes:**
   - CreditScore
